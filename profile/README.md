@@ -3,6 +3,7 @@
 **Building social simulators with language model agents.**
 
 Yew AI develops tools, models, and research artifacts that let scholars and policymakers simulate human-scale social phenomena _in silico_ — before they unfold in the real world.
+<img width="1516" height="1037" alt="YewAI_copyright" src="https://github.com/user-attachments/assets/f3ba7c6d-a10a-4f0a-b7a8-3a09f2db6684" />
 
 ---
 
